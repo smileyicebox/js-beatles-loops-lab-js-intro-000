@@ -6,6 +6,7 @@ function theBeatlesPlay(musicians, instruments) {
     solutionArray.push(solutionString)
   }
   return solutionArray
+  
   function johnLennonFacts(facts) {
     var i = 0
     var solutionFacts = []
