@@ -16,5 +16,5 @@ function johnLennonFacts(facts) {
     solutionFacts.push(solutionString)
     i++
   }
-  return facts
+  return solutionFacts
 }
