@@ -6,13 +6,12 @@ function theBeatlesPlay(musicians, instruments) {
     solutionArray.push(solutionString)
   }
   return solutionArray
-}
-
-function johnLennonFacts(facts) {
+  function johnLennonFacts(facts) {
   var i = 0
   var solutionFacts = []
   while (i < facts.length) {
     solutionFacts.push(`${facts}!!!`)
   }
   return solutionFacts
+}
 }
